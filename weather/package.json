@@ -1,0 +1,18 @@
+{
+    "name": "weather-myself",
+    "version": "1.0.2",
+    "description": "weather",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "weather",
+        "city"
+    ],
+    "author": "xuxuwanyi",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1"
+    }
+}
